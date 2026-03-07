@@ -25,13 +25,13 @@ The tutorials use **real datasets related to Egypt**
 
 | Video | Topic | Notebook |
 |------|------|------|
-| 01 | Reading Geospatial Data | [notebook](notebooks/01_reading_geospatial_data.ipynb) |
+| 01 | Reading Geospatial Data | [notebook](notebooks/01_Reading_Geospatial_Data.ipynb) |
 
 ---
 
 ###  Watch the Tutorial Videos
 📺 **YouTube:**  
-👉 *[[LINK]([https://youtu.be/TJ4i3amKbEw?si=RFccr6l00u4iAy-J](https://www.youtube.com/@DrNourEarthEngine))]*
+👉 *[[LINK]([https://youtu.be/TJ4i3amKbEw?si=RFccr6l00u4iAy-J](https://www.youtube.com/@DrNourEarthEngine)](https://youtube.com/playlist?list=PL3QrCAWTsylzS5VPlHibdcFKd3cnGf3Ys&si=uk8sZlsl6EFvEuhA))]*
 
 
 
