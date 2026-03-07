@@ -31,7 +31,7 @@ The tutorials use **real datasets related to Egypt**
 
 ###  Watch the Tutorial Videos
 📺 **YouTube:**  
-👉 *[[LINK]([https://youtu.be/TJ4i3amKbEw?si=RFccr6l00u4iAy-J](https://www.youtube.com/@DrNourEarthEngine)](https://youtube.com/playlist?list=PL3QrCAWTsylzS5VPlHibdcFKd3cnGf3Ys&si=uk8sZlsl6EFvEuhA))]*
+👉 *https://shorturl.at/jxnR5*
 
 
 
