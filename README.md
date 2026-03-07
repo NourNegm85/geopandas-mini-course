@@ -1,5 +1,7 @@
 # GeoPandas Mini Course
 
+<img src="images/cover.png" alt="GeoPandas Mini Course Banner" width="800">
+
 A beginner-friendly **GeoPandas mini course** designed to teach the fundamentals of geospatial data analysis using Python.
 
 This series walks through a complete **geospatial workflow**, from reading spatial data to performing spatial analysis and visualization.
