@@ -1,0 +1,2 @@
+- Egypt ADM1 Shapefile:
+https://gadm.org/download_country.html
