@@ -27,6 +27,7 @@ The tutorials use **real datasets related to Egypt**
 |------|------|------|
 | 01 | Reading Geospatial Data | [notebook](notebooks/01_Reading_Geospatial_Data.ipynb) |
 | 02 | GeoPackage Data Handling, CRS & Cleaning | [notebook](notebooks/02_GeoPackage_Data_Handling,_CRS_&_Cleaning.ipynb)|
+| 03 | Spatial Join | [notebook](notebooks/03_Spatial_Join.ipynb) |
 ---
 
 ###  Watch the Tutorial Videos
