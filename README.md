@@ -28,7 +28,8 @@ The tutorials use **real datasets related to Egypt**
 | 01 | Reading Geospatial Data | [notebook](notebooks/01_Reading_Geospatial_Data.ipynb) |
 | 02 | GeoPackage Data Handling, CRS & Cleaning | [notebook](notebooks/02_GeoPackage_Data_Handling,_CRS_&_Cleaning.ipynb)|
 | 03 | Spatial Join | [notebook](notebooks/03_Spatial_Join.ipynb) |
-| 04 | Overlay | [notebook](notebooks/04_Overlay.ipynb)
+| 04 | Overlay | [notebook](notebooks/04_Overlay.ipynb) |
+| 05 | Buffer & Proximity Analysis | [notebook](notebooks/05_Buffer_%26_Proximity_Analysis.ipynb) |
 ---
 
 ###  Watch the Tutorial Videos
