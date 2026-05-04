@@ -1,5 +1,0 @@
-- Egypt Boundries 
-https://data.humdata.org/dataset/cod-ab-egy
-
-- Egypt OSM
-https://download.geofabrik.de/africa/egypt.html
